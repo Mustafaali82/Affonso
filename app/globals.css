@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-bg {
+  background: #c4c4c4;
+  background: linear-gradient(179deg, rgba(255, 255, 255, 0.844) 0%, rgba(0, 0, 0, 1) 61%, rgba(0, 0, 0, 1) 73%, rgba(0, 0, 0, 1) 100%);
+
+}
