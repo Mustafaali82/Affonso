@@ -1,5 +1,5 @@
 import Reusibleblock from "./reusiblefeatureblock";
-import { FaRocket, FaShieldAlt, FaPlug } from "react-icons/fa";
+import { FaRocket } from "react-icons/fa";
 
 export default function FeaturedBlock() {
     return (<section  className="w-full bg-white px-32 flex flex-col gap-20 py-20">

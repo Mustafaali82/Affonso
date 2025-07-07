@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Header from "./components/header";
 import Hero from "./components/Hero";
 import FeaturedBlock from "./components/FeaturedBlock";
