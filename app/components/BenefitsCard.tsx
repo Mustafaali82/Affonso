@@ -1,4 +1,5 @@
-import Image from "next/image"
+import Image from "next/image";
+
 interface Props {
     imagesrc: string,
     text: string,
